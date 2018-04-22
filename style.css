@@ -1,0 +1,23 @@
+.container{
+  font-size: 30px;
+  margin: 10px;
+}
+
+table {
+  border-spacing: 0px;
+  border-collapse: collapse;
+  margin: 20px;
+  font-size: 18;
+
+}
+td{
+  border: 1px solid lightgrey;
+}
+th{
+  background-color: #696969;
+  color: white;
+  border: 1px solid white;
+}
+.disable-row{
+  background-color: #d3d3d382;
+}
